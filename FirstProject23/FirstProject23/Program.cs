@@ -2,5 +2,5 @@
 int BoxA, BoxB, BoxC;
 BoxA = 4;
 BoxB = 5;
-BoxC = BoxA + BoxB;
+BoxC = BoxA * BoxB;
 Console.WriteLine(BoxC);
