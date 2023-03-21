@@ -1,0 +1,15 @@
+C:\Users\tasenova\Source\Repos\CSharpTraining23\FirstProject23\FirstProject23\bin\Debug\net6.0\FirstProject23.exe
+C:\Users\tasenova\Source\Repos\CSharpTraining23\FirstProject23\FirstProject23\bin\Debug\net6.0\FirstProject23.deps.json
+C:\Users\tasenova\Source\Repos\CSharpTraining23\FirstProject23\FirstProject23\bin\Debug\net6.0\FirstProject23.runtimeconfig.json
+C:\Users\tasenova\Source\Repos\CSharpTraining23\FirstProject23\FirstProject23\bin\Debug\net6.0\FirstProject23.dll
+C:\Users\tasenova\Source\Repos\CSharpTraining23\FirstProject23\FirstProject23\bin\Debug\net6.0\FirstProject23.pdb
+C:\Users\tasenova\Source\Repos\CSharpTraining23\FirstProject23\FirstProject23\obj\Debug\net6.0\FirstProject23.csproj.AssemblyReference.cache
+C:\Users\tasenova\Source\Repos\CSharpTraining23\FirstProject23\FirstProject23\obj\Debug\net6.0\FirstProject23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tasenova\Source\Repos\CSharpTraining23\FirstProject23\FirstProject23\obj\Debug\net6.0\FirstProject23.AssemblyInfoInputs.cache
+C:\Users\tasenova\Source\Repos\CSharpTraining23\FirstProject23\FirstProject23\obj\Debug\net6.0\FirstProject23.AssemblyInfo.cs
+C:\Users\tasenova\Source\Repos\CSharpTraining23\FirstProject23\FirstProject23\obj\Debug\net6.0\FirstProject23.csproj.CoreCompileInputs.cache
+C:\Users\tasenova\Source\Repos\CSharpTraining23\FirstProject23\FirstProject23\obj\Debug\net6.0\FirstProject23.dll
+C:\Users\tasenova\Source\Repos\CSharpTraining23\FirstProject23\FirstProject23\obj\Debug\net6.0\refint\FirstProject23.dll
+C:\Users\tasenova\Source\Repos\CSharpTraining23\FirstProject23\FirstProject23\obj\Debug\net6.0\FirstProject23.pdb
+C:\Users\tasenova\Source\Repos\CSharpTraining23\FirstProject23\FirstProject23\obj\Debug\net6.0\FirstProject23.genruntimeconfig.cache
+C:\Users\tasenova\Source\Repos\CSharpTraining23\FirstProject23\FirstProject23\obj\Debug\net6.0\ref\FirstProject23.dll
